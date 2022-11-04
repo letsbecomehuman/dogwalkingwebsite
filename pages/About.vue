@@ -6,8 +6,9 @@
         <h1 class="line-after">About Us</h1>
         <h4 class="mt-4">Best Dog Walkers in Town</h4>
         <p>
-          A lot of pet care companies suffer from extremely high turnover. This is because they set a very low bar for employment.
-          <b>Big City Dog Walkers is different.</b> We bring on only the best and most professional workers, and make sure they get paid accordingly.
+          A lot of pet care companies suffer from extremely high turnover and underpaid staff with low morale.
+          <b>Big City Dog Walkers is different.</b> As independent walkers, we make sure the people doing the work are the ones getting paid.
+          With happy walkers we can ensure your pets are getting the best care possible. 
         </p>
           <div alt="BCDW Wallpaper" class="abt-img vignette-inset" />
         </div>
