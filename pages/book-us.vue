@@ -6,7 +6,7 @@
       <h2>Discuss Our Services 💌</h2>
 
       <p class="text-left">
-        If you have any question about our services or just want to say hi, and we will get back to you ASAP!
+        If you have any question about our services or just want to say hi, and we will get back to you as soon as possible!
       </p>
 
 
