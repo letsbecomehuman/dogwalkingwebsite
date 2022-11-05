@@ -132,7 +132,7 @@ img {
 .signupcta {
   color: black !important;
   background-color: rgba(182, 182, 182, .5);
-  border: 3px solid black;
+  border: 2px solid black;
   text-align: left;
   padding: 40px;
   border-radius: 5px;
@@ -145,7 +145,7 @@ img {
 body.dark .signupcta {
   color: white !important;
   background-color: rgba(35, 31, 32, .5);
-  border: 2px solid white;
+  border: 1px solid white;
   text-align: left;
   padding: 40px;
   border-radius: 5px;
