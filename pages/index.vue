@@ -19,22 +19,23 @@
         <br />
         Cats are welcome too.
         <br />
-        <b-button
-          class="action-btn animate__animated animate__wobble animate__delay-4s animate__fast"
-          to="/about"
-        >
-          Learn More >
-        </b-button>
+        <div class="buttonsection">
+          <b-button
+            class="action-btn animate__animated animate__wobble animate__delay-4s animate__fast learnmore"
+            to="/about"
+          >
+            Learn More >
+          </b-button>
 
-        <b-button
-          class="action-btn"
-          href="https://airtable.com/shrOWyEGEJknCN9Yl"
-          variant="primary"
-          target="_blank"
-        >
-          Get In Touch
-        </b-button>
-
+          <b-button
+            class="action-btn"
+            href="https://airtable.com/shrOWyEGEJknCN9Yl"
+            variant="primary"
+            target="_blank"
+          >
+            Get In Touch
+          </b-button>
+        </div>
         <!-- .SOCIAL LINKS SECTION -->
         <div
           class="social-icons animate__animated animate__fadeInUp animate__delay-1s"

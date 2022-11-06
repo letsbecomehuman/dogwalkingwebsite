@@ -93,6 +93,11 @@ img {
     width: 100%;
     padding: 10px;
   }
+
+  .buttonsection {width: 100%;}
+  .buttonsection .btn {width: 45%;;}
+  .info {font-size: 20px;
+  line-height: 1.75em;}
 }
 
 @media screen and (min-width: 1200px) {
@@ -128,6 +133,8 @@ img {
   background-color: rgb(130, 68, 79);
   border-color: rgb(130, 68, 79);
 }
+
+.learnmore {margin-left: 0px;}
 
 .signupcta {
   color: black !important;
