@@ -24,6 +24,12 @@
 }
 
 @font-face {
+  font-family: "Sabon";
+  src: local("Sabon"),
+    url(../assets/fonts/Sabon.ttf) format("truetype");
+}
+
+@font-face {
   font-family: "Super Retro M54";
   src: local("Super Retro M54"),
     url(../assets/fonts/Super_Retro.ttf) format("truetype");
