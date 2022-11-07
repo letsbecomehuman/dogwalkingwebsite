@@ -1,7 +1,8 @@
 <template>
   <b-row style="margin-left: 0; margin-right: 0">
-    <b-col md="4">
+    <b-col md="4" class="d-flex align-items-center mx-auto">
       <b-img
+      class="mx-auto"
         src="../assets/bigcitydogwalk.png"
         id="avatar-img"
         alt="Big City Dog Walkers"
