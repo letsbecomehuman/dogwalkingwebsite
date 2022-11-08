@@ -14,6 +14,14 @@ export default {
    ** See https://nuxtjs.org/api/configuration-head
    */
   head: {
+    script: [
+      {
+        src: "https://www.googletagmanager.com/gtag/js?id=G-0F982RXXNQ",
+        async: true
+      },
+      // Import analitics.js file
+      { src: "/js/analitics.js" },
+    ],
     title: process.env.npm_package_name || "",
     meta: [
       { charset: "utf-8" },
