@@ -55,7 +55,9 @@ export default {
   /*
    ** Nuxt.js dev-modules
    */
-  buildModules: [],
+  buildModules: [
+    '@nuxtjs/google-analytics'
+  ],
   /*
    ** Nuxt.js modules
    */
@@ -66,6 +68,10 @@ export default {
   ],
   sitemap: {
     hostname: 'https://bigcitydogwalkers.com',
+  },
+  googleAnalytics: {
+    id: 'G-0F982RXXNQ'
+  // Options
   },
   /*
    ** Build configuration
