@@ -1,5 +1,5 @@
 {
-  "name": "itsuka-website",
+  "name": "Big City Dog Walkers",
   "version": "1.0.0",
   "private": true,
   "scripts": {
@@ -9,6 +9,7 @@
     "generate": "nuxt generate"
   },
   "dependencies": {
+    "@nuxtjs/sitemap": "^2.4.0",
     "bootstrap": "^4.5.0",
     "bootstrap-vue": "^2.15.0",
     "fslightbox-vue": "^2.0.1",

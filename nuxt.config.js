@@ -61,8 +61,12 @@ export default {
    */
   modules: [
     // Doc: https://bootstrap-vue.js.org
-    "bootstrap-vue/nuxt"
+    "bootstrap-vue/nuxt",
+    '@nuxtjs/sitemap'
   ],
+  sitemap: {
+    hostname: 'https://bigcitydogwalkers.com',
+  },
   /*
    ** Build configuration
    ** See https://nuxtjs.org/api/configuration-build/
