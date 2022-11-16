@@ -2,7 +2,7 @@
 <b-container class="page animate__animated animate__fadeIn">
   <b-row class="mx-auto signupcta col-md-8">
 
-    <b-col cols="col-md-8 col-lg-8 ">
+    <b-col cols="col-md-8 col-lg-8 signupcta_text">
       <h2>Discuss Our Services 💌</h2>
 
       <p class="text-left">

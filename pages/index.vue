@@ -15,11 +15,13 @@
       </h2>
 
       <div class="col-md-10 info">
+        <p>
         We offer <b>Complete</b> and <b>Attentive</b> Pet Care for all your
         Canine Friends.
         <br />
         Cats are welcome too.
         <br />
+      </p>
         <div class="buttonsection">
           <b-button
             class="action-btn animate__animated animate__wobble animate__delay-4s animate__fast learnmore"

@@ -32,6 +32,11 @@ h1 {
   font-weight: bold;
 }
 
+p {line-height: 2em;}
+.text h1 { margin-bottom: .75em;}
+.text h4 { margin-bottom: .5em;}
+.text p { margin-bottom: 1.5em; }
+.abt-img {margin: 40px 0px;}
 .bottom {
   padding-top: 40px;
 }
@@ -88,6 +93,9 @@ img {
   /* color: #000; */
 }
 
+  .signupcta_text {padding-bottom: 40px;}
+
+
 /* for mobile devices */
 @media screen and (max-width: 991px) {
   .vanishsmall {
@@ -102,7 +110,7 @@ img {
     width: 100%;
     padding: 10px;
   }
-
+  .signupcta_text {padding-bottom: 0px;}
   .buttonsection {width: 100%;}
   .buttonsection .btn {width: 45%;;}
   .info {font-size: 20px;
