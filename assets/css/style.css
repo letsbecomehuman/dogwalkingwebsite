@@ -50,7 +50,7 @@ p {line-height: 2em;}
   display: inline-table;
   margin: 7px;
 }
-
+.about { margin: 0px 30px;}
 .info {
   margin-top: 10px;
   text-align: left;
@@ -95,7 +95,9 @@ img {
 
   .signupcta_text {padding-bottom: 40px;}
 
-
+@media screen and (min-width: 769px) {
+  .about {margin: 0px;}
+}
 /* for mobile devices */
 @media screen and (max-width: 991px) {
   .vanishsmall {
